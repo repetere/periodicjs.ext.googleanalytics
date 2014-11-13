@@ -1,0 +1,11 @@
+{
+	"periodicCompatibility":"2.1.8",
+	"periodicDependencies": [],
+	"periodicjs.ext.admin": {
+		"menu": {
+			"Extensions": {
+				"Google Analytics": "<a href=\"/p-admin/extension/periodicjs.ext.googleanalytics/\">Google Analytics</a>"
+			}
+		}
+	}
+}

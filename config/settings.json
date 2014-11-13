@@ -1,0 +1,8 @@
+{
+	"development":{
+		"trackingcode":"UA-xxxxxxxx-y"
+	},
+	"production":{
+		"trackingcode":"UA-xxxxxxxx-y"
+	}
+}
