@@ -32,6 +32,8 @@ var Utilities = require('periodicjs.core.utilities'),
  * @return {Function} adds google analytics to footer
  */
 var postDataQueryFunction = function(serverobj,asynccallback){
+		// console.log('google anal serverobj.res.locals',serverobj.res.locals)
+
 	var returnfunction = function(serverobj,asynccallback){
 		try{		
 			serverobj.res.locals.additionalFooterHTML.googleanalytics=analyticstrackingtemplatehtml;
